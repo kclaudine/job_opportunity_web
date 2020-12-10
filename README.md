@@ -3,11 +3,11 @@
 ## **This project was done using Python 3.6  and Flask.** 
 
 
-# DESCRIPTION
+### DESCRIPTION
 
 This is a website where you can create and share your opinions and other users can read and comment on them.
 
-## User Story
+### User Story
 
 - Users can see the post other people have published.
 
@@ -28,8 +28,8 @@ This is a website where you can create and share your opinions and other users c
 - Users can view the different categories. 
 
 
-# **SETUP/INSTALLATION.**
-## Prerequisites
+## **SETUP/INSTALLATION.**
+### Prerequisites
 
 To work with FLASK BLOG App you need to have some few prerequisites.
 
@@ -46,7 +46,7 @@ To work with FLASK BLOG App you need to have some few prerequisites.
 - Terminal
 
 
-### **To work With FLASK BLOG**
+### **To work With OPPORTUNITY HUB**
 
 1. You will need Internet connection.
 
@@ -54,7 +54,7 @@ To work with FLASK BLOG App you need to have some few prerequisites.
 
 3. To get to use **Opportunity hub** first you need to get to the OPPORTUNITY HUB repository. 
 
-Link:-> ```https://github.com/josylad/Flask-Blog```
+Link:-> ```https://github.com/kclaudine/job_opportunity_web.git```
 
 4. From there you can access OPPORTUNITY HUB App.
 
@@ -80,7 +80,7 @@ Link:-> ```https://github.com/josylad/Flask-Blog```
 OR run: 
 * $ python3.6 run.py runserver
 
-# Technologies Used
+### Technologies Used
 
 * Python 3.6
 * Flask
@@ -88,7 +88,7 @@ OR run:
 * MDBootstrap
 
 
-# AUTHOR
+### AUTHOR
 
 * Emma Bonte BANA
 * Claudine KURADUSENGE
@@ -96,7 +96,7 @@ OR run:
 * Huguette UMUTONI
 
 
-## License
+### License
 This project is licensed under the MIT License
 
 Copyright (c) 2020.
