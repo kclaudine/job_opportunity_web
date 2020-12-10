@@ -1,11 +1,11 @@
-# FLASK BLOG
+# Opportunity hub
 
-### **This project was done using Python 3.6  and Flask.** 
+## **This project was done using Python 3.6  and Flask.** 
 
 
 # DESCRIPTION
 
-This is a for personal blogging website where you can create and share your opinions and other users can read and comment on them.
+This is a website where you can create and share your opinions and other users can read and comment on them.
 
 ## User Story
 
@@ -52,11 +52,11 @@ To work with FLASK BLOG App you need to have some few prerequisites.
 
 2. You will also need python installed and knowledge of python
 
-3. To get to use **FLASK BLOG** first you need to get to the FLASK BLOG repository. 
+3. To get to use **Opportunity hub** first you need to get to the OPPORTUNITY HUB repository. 
 
 Link:-> ```https://github.com/josylad/Flask-Blog```
 
-4. From there you can access FLASK BLOG App.
+4. From there you can access OPPORTUNITY HUB App.
 
 5. **Clone** the project.
 
@@ -90,20 +90,13 @@ OR run:
 
 # AUTHOR
 
-* Joseph Adediji 
+* Emma Bonte BANA
+* Claudine KURADUSENGE
+* Joselyne INGABIRE
+* Huguette UMUTONI
 
-## Support and Contact
----
-
--Twitter: [@Josylad](https://twitter.com/josylad/)
-
--Blog: [Joseph on Medium](https://medium.com/@josylad/)
-
--Email Address: markupmediang [@] gmail.com
-
--github-username: Josylad
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
-Copyright (c) 2019. Joseph Adediji
+Copyright (c) 2020. 
