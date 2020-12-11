@@ -31,7 +31,7 @@ This is a website where you can create and share your opinions and other users c
 ## **SETUP/INSTALLATION.**
 ### Prerequisites
 
-To work with FLASK BLOG App you need to have some few prerequisites.
+To work with OPPORTUNITY HUB App you need to have some few prerequisites.
 
 - Python3.6
 
